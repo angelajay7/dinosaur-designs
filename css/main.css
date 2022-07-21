@@ -19,11 +19,13 @@ h1, h2 {
 
   font-family: "Patua One", sans-serif;
 }
+
 figcaption {
   font-size: .8rem;
 
   font-style: italic;
   text-align: center;
+
 }
 nav {
 
@@ -38,9 +40,11 @@ nav ol {
 }
 
 nav a {
+
   color: #793284;
   text-decoration: none;
 }
+
 nav a:hover {
   color: #b42885;
 }
